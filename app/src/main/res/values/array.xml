@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cat">
+        <item>Entertainment</item>
+        <item>Finance</item>
+        <item>Games</item>
+        <item>Music</item>
+        <item>Navigation</item>
+        <item>Photo and Video</item>
+        <item>Productivity</item>
+        <item>Shopping</item>
+        <item>Social Networking</item>
+        <item>Travel</item>
+        <item>Utilities</item>
+    </string-array>
+
+</resources>
